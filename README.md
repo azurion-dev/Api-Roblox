@@ -1,4 +1,3 @@
-````markdown
 # Guia de API do Roblox para Iniciantes
 
 Este documento resume os conceitos e referências mais importantes da API do Roblox Studio, em formato Markdown para facilitar seu aprendizado no GitHub.
